@@ -140,7 +140,8 @@ https://github.com/fmtjava/Jetpack_Kotlin_Eyepetizer
 
 > https://1258656679-dk116gec67-gz.scf.tencentcs.com
 
-举个例子，![image-20240706161907881](C:\Users\29364\AppData\Roaming\Typora\typora-user-images\image-20240706161907881.png)
+举个例子，![QQ_1720686459666](https://github.com/lytMoon/Redrock2024-AndroidSummerAssessment/assets/117186626/5366b0c1-ae96-4a0c-879d-d8c22fcd0004)
+
 
 根据调用例子，所以我们完整的请求地址是：跟地址加相对地址
 
