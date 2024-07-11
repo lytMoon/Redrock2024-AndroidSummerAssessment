@@ -161,7 +161,7 @@ https://docs.github.com/cn/rest
 
 下面我推荐一些文章，都是可以百度到的
 
-[**github api接口**](“https://www.jianshu.com/p/a6779929fad2)
+[**github api接口**](https://www.jianshu.com/p/a6779929fad2)
 
 [**一篇文章搞定Github API 调用 (v3）**](https://segmentfault.com/a/1190000015144126)
 
