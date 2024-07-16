@@ -130,7 +130,7 @@ https://github.com/fmtjava/Jetpack_Kotlin_Eyepetizer
 
 ### 网易云音乐
 
-接口文档：[网易云音乐 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
+接口文档：[网易云音乐 API](http://82.156.18.110:3000/)
 
 音乐播放器和MV播放可使用三方库。
 
@@ -139,6 +139,8 @@ https://github.com/fmtjava/Jetpack_Kotlin_Eyepetizer
 文档中的的接口是没有指定根地址的，而我们这次的根地址是：
 
 > https://1258656679-dk116gec67-gz.scf.tencentcs.com
+> 新增了一个如下
+> http://82.156.18.110:3000
 
 举个例子，![QQ_1720686459666](https://github.com/lytMoon/Redrock2024-AndroidSummerAssessment/assets/117186626/5366b0c1-ae96-4a0c-879d-d8c22fcd0004)
 
