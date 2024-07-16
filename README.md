@@ -139,8 +139,16 @@ https://github.com/fmtjava/Jetpack_Kotlin_Eyepetizer
 文档中的的接口是没有指定根地址的，而我们这次的根地址是：
 
 > https://1258656679-dk116gec67-gz.scf.tencentcs.com
-> 新增了一个如下
+
+由于原为腾讯云Serveless应用部署，部分接口同学反馈不稳定，下面加入新的地址
+
 > http://82.156.18.110:3000
+>
+> 注意是http协议，3000是端口号，其他端口号服务器不放行
+>
+> 如果部分接口需要登录，请先重新在该接口下进行登录操作
+
+
 
 举个例子，![QQ_1720686459666](https://github.com/lytMoon/Redrock2024-AndroidSummerAssessment/assets/117186626/5366b0c1-ae96-4a0c-879d-d8c22fcd0004)
 
@@ -148,6 +156,10 @@ https://github.com/fmtjava/Jetpack_Kotlin_Eyepetizer
 根据调用例子，所以我们完整的请求地址是：跟地址加相对地址
 
 > https://1258656679-dk116gec67-gz.scf.tencentcs.com/song/url/v1?id=33894312&level=exhigh
+>
+> 或者为
+>
+> http://82.156.18.110:3000/song/url/v1?id=33894312&level=exhigh
 
 可以通过postman调试
 
@@ -175,7 +187,7 @@ https://docs.github.com/cn/rest
 
 **考核完后可以回家吗？**
 
-先询问自己辅导员，通过了后掌邮这边没有业务的话就可以放人。
+先询问自己辅导员，通过了后掌邮这边没有线下业务的话就可以放人。
 
 **学校让暑假做社会实践怎么办？**
 
